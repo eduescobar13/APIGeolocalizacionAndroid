@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">API Geolocalización</string>
+    <string name="mensaje_permisos_geolocalizacion_denegados">Los permisos de geolocalización han sido denegados. Tenga en cuenta que la aceptación de permisos es básica para el correcto funcionamiento de la aplicación</string>
+    <string name="mensaje_conexion_iterrumpida">Se ha interrumpido la conexión con Google Play Services</string>
+    <string name="mensaje_conexion_fallida">Error al conectar con Google Play Services</string>
+    <string name="hint_edit_text_direccion">Introduzca una dirección</string>
+    <string name="key_text_direccion">Buscar</string>
+</resources>
